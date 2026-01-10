@@ -33,7 +33,7 @@ result = (f'''Hello my name is {myName} located at {city} ''')
 
 # 美金轉換台幣
 usdTOntd = 30
-usd = input("How much NT is this usd ? ")
+usd = input("How much NT is this usd ? ") # USD 
 
-dataFinal = usdTOntd * int(usd)
-print (dataFinal)
+dataFinal = usdTOntd * int(usd) # NTD 
+print ( usd , "USD can transfer into " , dataFinal , "NTD")
