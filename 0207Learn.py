@@ -153,3 +153,6 @@ def trackgps ():
 #     ├── frontend/               # React + TypeScript App
 #     │   └── src/
 #     └── backend/                # Node.js + Express/Nest.js
+
+
+# google vision == 圖片辨識(早期非llm)
